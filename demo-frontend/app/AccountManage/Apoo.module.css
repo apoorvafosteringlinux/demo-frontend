@@ -1,0 +1,10 @@
+.button {
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  .active {
+    border-bottom: 4px solid rgb(29 78 216); /* You can adjust the border color and style */
+  }
+  
